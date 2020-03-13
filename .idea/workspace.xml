@@ -1,146 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af79d654-7279-487d-a40c-d2eeba5f29e8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/leetcode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/algo/backtracking/Combinations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/algo/backtracking/NQueens.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/algo/backtracking/NumberOfIslands.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/algo/backtracking/Permutations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/algo/backtracking/WordSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/algo/bfs/BinaryTreeLevelOrderTraversal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/algo/bfs/PerfectSquares.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/algo/cursor/BestTimeToBuyAndSellStockII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/algo/cursor/MoveZeroes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/algo/cursor/RemoveElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/algo/dp/ClimbingStairs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/algo/dp/DecodeWays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/algo/dp/HouseRobber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/algo/dp/IntegerBreak.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/algo/dp/LongestCommonSubsequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/algo/dp/LongestIncreasingSubsequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/algo/dp/PartitionEqualSubsetSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/algo/dp/PerfectSquares.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/algo/greedy/AssignCookies.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/algo/greedy/AssignCookies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/algo/greedy/NonOverlappingIntervals.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/algo/greedy/NonOverlappingIntervals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/algo/partition/KthLargestElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/algo/partition/SortColors.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/algo/pointers/ContainerWithMostWater.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/algo/pointers/ReverseVowelsOfAString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/algo/pointers/TwoSumII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/algo/pointers/ValidPalindrome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/algo/window/FindAllAnagramsInAString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/algo/window/LongestRepeatingCharacterReplacement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/algo/window/LongestSubstringWithoutRepeatingCharacters.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/algo/window/MinimumSizeSubarraySum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/algo/window/MinimumWindowSubstring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/algo/window/PermutationInString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/binarytree/BalancedBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/binarytree/BinaryTreePaths.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/binarytree/CountCompleteTreeNodes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/binarytree/InvertBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/binarytree/LowestCommonAncestorOfBST.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/binarytree/MaximumDepthOfBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/binarytree/MinimumDepthOfBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/binarytree/PathSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/binarytree/PathSumII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/binarytree/PathSumIII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/binarytree/SameTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/binarytree/SumOfLeftLeaves.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/binarytree/SumRootToLeafNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/binarytree/SymmetricTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/collection/ContainsDuplicateII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/collection/ContainsDuplicateIII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/collection/FourSumII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/collection/HappyNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/collection/IntersectionOfTwoArrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/collection/IntersectionOfTwoArraysII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/collection/NumberOfBoomerangs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/collection/TwoSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/collection/UniqueMorseRepresentations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/collection/ValidAnagram.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/collection/WordPattern.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/linkedlist/DeleteNodeInALinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/linkedlist/PalindromeLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/linkedlist/RemoveLinkedListElements.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/linkedlist/RemoveNthNodeFromEndOfList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/linkedlist/ReverseLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/linkedlist/SwapNodesInPairs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/queue/TopKFrequentElements.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/stack/BinaryTreePreorderTraversal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/stack/EvaluateReversePolishNotation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/stack/TrappingRainWater.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/ds/stack/ValidParentheses.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/out/production/swordoffer/META-INF/swordoffer.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/algo/backtracking/AreaOfRobot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/algo/backtracking/PathInMatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/algo/backtracking/StringPermutation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/algo/cursor/ReorderArrayOddEven.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/algo/dp/CutRope.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/algo/dp/Fibonacci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/algo/dp/GiftMostValue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/algo/dp/JumpFloor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/algo/dp/JumpFloorAdvance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/algo/dp/MatrixCover.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/algo/dp/NumberEncodeString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/algo/dp/SubarraySumMax.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/algo/dp/UglyNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/algo/merge/ReversePair.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/algo/other/AddUsingBit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/algo/other/ImplementPower.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/algo/other/MultipyArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/algo/other/OneTimes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/algo/other/SequenceIndexNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/algo/pointer/ArraySumEqualsS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/algo/pointer/SearchInTwoDimArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/algo/search/FindMinimumNumInRotationArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/algo/sort/PokerContinuous.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/algo/window/ArrayContinuousSumEqualsS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/algo/window/LongestNotRepeatedSubstring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/array/CountOneTimes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/array/DuplicateNumberInArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/array/MoreThanHalfNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/array/PrintArrayClockwise.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/array/SortArrayAsMinNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/binarytree/BSTPostorder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/binarytree/ConvertBinaryTreeToLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/binarytree/FindNextNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/binarytree/KthMinNodeInBST.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/binarytree/MirrorBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/binarytree/PathSumII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/binarytree/ReconstructBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/binarytree/SerializeBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/binarytree/SubTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/binarytree/SymmetricalBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/hash/ArrayFirstTimeElem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/hash/FirstChar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/heap/FindKSmallestNums.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/heap/MedianNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/heap/WindowMaximum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/linkedlist/CommonNodeOfTwoLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/linkedlist/CopyComplexLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/linkedlist/LoopInLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/linkedlist/MergeTwoLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/linkedlist/PrintListReverse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/linkedlist/RemoveNodeDuplicate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/linkedlist/RemoveNodeO1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/linkedlist/ReturnKthNodeFromEnd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/linkedlist/ReverseLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/queue/NotRepeatCharacter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/queue/PrintBinaryTreeByLevel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/queue/PrintBinaryTreeFromHome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/queue/PrintBinaryTreeZhi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/stack/MinStackImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/stack/StackPushAndPop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/stack/TwoStackImplementQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/string/ConvertStringToInteger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/string/PrintFromOneToN.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/string/RegularExpression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/string/ReplaceSpace.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/src/ds/string/StringIsNumberOrNot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordoffer/swordoffer.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="af79d654-7279-487d-a40c-d2eeba5f29e8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584085278122</updated>
-      <workItem from="1584085279291" duration="316000" />
+      <workItem from="1584085279291" duration="1011000" />
     </task>
     <servers />
   </component>
