@@ -3,18 +3,9 @@ package algo.backtracking;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author Louis
- * @date Create in 2019/9/22 11:03
- */
+
 public class LetterCombinationsOfAPhoneNumber {
-    /**
-     * 17 Letter Combinations of a Phone Number
-     * https://leetcode.com/problems/letter-combinations-of-a-phone-number/
-     * 思路：回溯法，formulate树形问题
-     * 时间复杂度：O(2^n)
-     * 空间复杂度：O(n)
-     */
+
     private String[] letterMap = {
             // 0
             " ",
@@ -58,7 +49,8 @@ public class LetterCombinationsOfAPhoneNumber {
             System.out.print(s + " ");
         }
     }
-    /** main */
+
+
     public static void main(String[] args) {
         printList((new LetterCombinationsOfAPhoneNumber()).letterCombinations("23"));
     }
